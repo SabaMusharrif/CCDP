@@ -6,8 +6,11 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">CCDP1-v1</langstring>
+          <langstring xml:lang="x-none">CCDP1-v2</langstring>
         </title>
+        <description>
+          <langstring xml:lang="x-none">edited slide 9, and new case 4 solved slide added, rest ignored</langstring>
+        </description>
       </general>
       <lifecycle>
         <version>
@@ -50,11 +53,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="CCDP1-v1_ORG">
-    <organization identifier="CCDP1-v1_ORG">
-      <title>CCDP1-v1</title>
+  <organizations default="CCDP1-v2_ORG">
+    <organization identifier="CCDP1-v2_ORG">
+      <title>CCDP1-v2</title>
       <item identifier="CCDP1-v1_SCO" isvisible="true" identifierref="__6mZb82jAa62_RES">
-        <title>CCDP1-v1</title>
+        <title>CCDP1-v2</title>
         <adlcp:masteryscore>80</adlcp:masteryscore>
       </item>
     </organization>
@@ -100,7 +103,8 @@
       <file href="mobile/6bgBqcKtCRV.png" />
       <file href="mobile/6CMg8WxXTue.png" />
       <file href="mobile/62mERorObiW.png" />
-      <file href="story_content/6PonarVc82R_44100_48_0.mp3" />
+      <file href="story_content/6Uxf9IbZLB6_44100_48_0.mp3" />
+      <file href="story_content/61HeDTZrYYF_44100_48_0.mp3" />
       <file href="mobile/6q7S6FLphZK.png" />
       <file href="mobile/5cWdaPSKD0x.png" />
       <file href="story_content/5lx80h1YQk6_44100_48_0.mp3" />
@@ -234,6 +238,7 @@
       <file href="mobile/6iN9R2FzcxY.png" />
       <file href="mobile/6fxJJG1FE5e.png" />
       <file href="mobile/6LVTfrsnGPE.png" />
+      <file href="story_content/6H0tQ59IdEv_44100_48_0.mp3" />
       <file href="story_content/6U6NINA2Ye9_44100_48_0.mp3" />
       <file href="story_content/6Cfv9kabFkn_44100_48_0.mp3" />
       <file href="mobile/6KIh9skA9qU.png" />
@@ -339,6 +344,7 @@
       <file href="html5/data/js/6ADE35jFBKm.js" />
       <file href="html5/data/js/6bKBiTsPnPr.js" />
       <file href="html5/data/js/6cqXXccR8zd.js" />
+      <file href="html5/data/js/6eG7MzHgQWC.js" />
       <file href="html5/data/js/6FDUKZxGwKN.js" />
       <file href="html5/data/js/6fNh5wepPKX.js" />
       <file href="html5/data/js/6FnmdghLoBD.js" />
